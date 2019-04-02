@@ -36,7 +36,7 @@ module.exports = function HMRS(compiler, options) {
         let buffer = outputFs.readFileSync(path.join(outputPath, filename))
 
         middleware = esModule(requireFromString(buffer.toString(), filename))
-        console.log('test')
+        console.log(`[HMRS] ${filename} is up to date`)
     }
 
     // Webpack 4
