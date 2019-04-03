@@ -1,12 +1,20 @@
 {
   "name": "hotload-server-middleware",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "webpack server side hot reload middleware",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords":["react", "javascript", "webpack", "hmr", "server", "hot", "hotload"],
+  "keywords": [
+    "react",
+    "javascript",
+    "webpack",
+    "hmr",
+    "server",
+    "hot",
+    "hotload"
+  ],
   "author": "yannliao",
   "license": "MIT",
   "repository": {
