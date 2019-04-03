@@ -88,3 +88,6 @@ app.use('/', indexHandle)
 ## Example
 
 [react starter](https://github.com/yannliao/react-starter)
+
+## License
+MIT
