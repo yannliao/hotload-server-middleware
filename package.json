@@ -1,6 +1,6 @@
 {
   "name": "hotload-server-middleware",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "webpack server side hot reload middleware",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,8 @@
   "author": "yannliao",
   "license": "MIT",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/yannliao/hotload-server-middleware.git"
+    "type": "git",
+    "url": "https://github.com/yannliao/hotload-server-middleware.git"
   },
   "dependencies": {
     "is-object": "^1.0.1",
